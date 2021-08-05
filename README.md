@@ -85,3 +85,16 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 6. Submit a pull request
 
 [![Run on Repl.it](https://repl.it/badge/github/L0SER8228/DeejayBot)](https://repl.it/github/L0SER8228/DeejayBot)
+
+## 
+
+- This is modified version of evobot.
+- With embed. 
+- Youtube api key is not need anymore (using youtube-sr)
+- Supports YouTube, SoundCloud urls and Spotify track url
+
+<hr/>
+
+## 📝 Credits
+
+[@eritislami](https://github.com/eritislami) [@eritislami/EvoBot](https://github.com/eritislami/evobot)
