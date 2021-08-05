@@ -1,0 +1,34 @@
+{
+  "name": "DeejayBot",
+  "version": "0.0.2-alpha",
+  "description": "Discord music bot built with discord.js",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "L0SER8228",
+  "license": "MIT",
+  "homepage": "https://github.com/l0ser8228/DeejayBot#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0ser8228/DeejayBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/l0ser8228/DeejayBot/issues"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "lyrics-finder": "^21.7.0",
+    "soundcloud-downloader": "^1.0.0",
+    "string-progressbar": "^1.0.4",
+    "spotify-url-info": "^2.2.3",
+    "youtube-sr": "^4.1.7",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
