@@ -20,7 +20,7 @@
     "url": "https://github.com/l0ser8228/DeejayBot/issues"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "^0.6.0",
     "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.4.0",
     "lyrics-finder": "^21.7.0",
